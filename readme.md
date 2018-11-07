@@ -1,4 +1,4 @@
-# is-float-array ![Build Status](https://travis-ci.org/dy/is-float-array.svg?branch=master)](https://travis-ci.org/dy/is-float-array) [![unstable](https://img.shields.io/badge/stability-unstable-green.svg)](http://github.com/badges/stability-badges)
+# is-float-array [![Build Status](https://travis-ci.org/dy/is-float-array.svg?branch=master)](https://travis-ci.org/dy/is-float-array) [![unstable](https://img.shields.io/badge/stability-unstable-green.svg)](http://github.com/badges/stability-badges)
 
 Test if an array can store floats. In particular, _Float32Array_, _Float64Array_ and _Array_ are detected as float arrays.
 
